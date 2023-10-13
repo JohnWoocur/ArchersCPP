@@ -1,5 +1,6 @@
 #include <iostream>
 
+#include "deposit.h"
 #include "payroll.h"
 #include "login.h"
 // Next Header files declaration

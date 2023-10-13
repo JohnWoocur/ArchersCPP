@@ -1,9 +1,11 @@
 #include <iostream>
 
+// Next Header files declaration
+#include "staff.h"
 #include "deposit.h"
 #include "payroll.h"
 #include "login.h"
-// Next Header files declaration
+#include "safna.h"
 
 using namespace std;
 
@@ -13,9 +15,15 @@ int  main()
 {
 
     //statements
-    home();
+  home();
   payroll();
+  staff();
+  customer_Account_Menu();
+  customer_Menu();
+  account_Menu();
+  admin_Menu();
   deposit();
+
 }
 
 //definition

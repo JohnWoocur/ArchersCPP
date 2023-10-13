@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//function decalration
+//function decalrations
 
 int  main()
 {

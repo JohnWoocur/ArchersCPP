@@ -1,5 +1,6 @@
 #include <iostream>
 // Next Header files declaration
+#include "staff.h"
 
 using namespace std;
 
@@ -8,6 +9,7 @@ using namespace std;
 int  main()
 {
     //statements
+	   staff();
 }
 
 //definition

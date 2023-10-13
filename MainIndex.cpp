@@ -1,15 +1,23 @@
 #include <iostream>
+
+
 // Next Header files declaration
 #include "staff.h"
+#include "deposit.h"
+#include "payroll.h"
+#include "login.h"
 
 using namespace std;
 
-//function decalration
+//function decalrations
 
 int  main()
 {
+    
     //statements
-	   staff();
+    home();
+  payroll();
+   staff();
 }
 
 //definition

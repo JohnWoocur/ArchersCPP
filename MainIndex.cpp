@@ -11,10 +11,11 @@ using namespace std;
 
 int  main()
 {
-    
+
     //statements
     home();
   payroll();
+  deposit();
 }
 
 //definition

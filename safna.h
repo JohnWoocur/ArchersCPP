@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-#include "naf.h"
 
 void customer_Account_Menu(){
         cout <<"^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"<<endl;
@@ -17,7 +16,7 @@ void customer_Account_Menu(){
         cout <<endl;
         cout <<"Please Select One ...... : ";
         cin >>s;
-        
+
 
 }
 void customer_Menu(){
@@ -34,7 +33,7 @@ void customer_Menu(){
         cout <<endl;
         cout <<"Please Select One ...... : ";
         cin >>customer_Selection;
-} 
+}
 }
 
 void account_Menu(){

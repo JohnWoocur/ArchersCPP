@@ -1,4 +1,6 @@
 #include <iostream>
+
+#include "payroll.h"
 #include "login.h"
 // Next Header files declaration
 
@@ -8,8 +10,10 @@ using namespace std;
 
 int  main()
 {
+    
     //statements
     home();
+  payroll();
 }
 
 //definition

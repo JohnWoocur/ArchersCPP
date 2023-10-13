@@ -13,15 +13,17 @@ using namespace std;
 
 int  main()
 {
-    
+
     //statements
-    home();
+  home();
   payroll();
   staff();
-   customer_Account_Menu();
+  customer_Account_Menu();
   customer_Menu();
   account_Menu();
   admin_Menu();
+  deposit();
+
 }
 
 //definition

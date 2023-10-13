@@ -1,4 +1,5 @@
 #include <iostream>
+#include "payroll.h"
 // Next Header files declaration
 
 using namespace std;
@@ -7,6 +8,7 @@ using namespace std;
 
 int  main()
 {
+    payroll();
     //statements
 }
 
